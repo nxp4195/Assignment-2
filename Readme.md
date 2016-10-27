@@ -20,5 +20,16 @@ Images:
 
 ![alt tag](https://raw.githubusercontent.com/nxp4195/Assignment-2/master/Images/IMG_8624.jpg)
 
-Live site:
+Live site:(works only when Photon is connected)
 https://rawgit.com/nxp4195/Assignment-2/master/photon_neopixel.html
+
+Refrences:
+https://community.particle.io/t/reading-spark-variables-with-your-own-html-file/4148
+
+https://www.sparkfun.com/products/245
+
+http://anthonyterrien.com/knob/
+
+https://github.com/aterrien/jQuery-Knob
+
+https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library
